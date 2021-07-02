@@ -64,6 +64,12 @@ client.on("message" , async(message)  =>
     commandFile.run(bot , message , args , client)
   }
 
+  if (cmd === "bt!avatar")
+  {
+
+    
+  }
+
 });
 
 
