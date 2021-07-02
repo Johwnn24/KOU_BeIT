@@ -1,0 +1,28 @@
+{
+  "name": "kou_ibeit",
+  "version": "1.0.0",
+  "description": "This is a discord bot to the server of KOU and another servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iDiego5614/KOU_BeIT.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "KOU"
+  ],
+  "author": "! Lonely#5614",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iDiego5614/KOU_BeIT/issues"
+  },
+  "homepage": "https://github.com/iDiego5614/KOU_BeIT#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security"
+  }
+}
