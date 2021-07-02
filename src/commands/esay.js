@@ -1,5 +1,9 @@
+const Discord = require("discord.js")
+
 module.exports.run = async(bot , message , args , client) =>
 {
+  const embed = new Discord.MessageEmbed()
+
   if(args.length === 0)
   {
     return
